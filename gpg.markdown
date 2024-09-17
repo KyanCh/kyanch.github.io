@@ -1,25 +1,19 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: GPG
+permalink: /pgp/
 ---
 
-非专业coding，兴趣驱动
+## OpenPGP 公钥分发
 
-email: [me@kyanch.icu](mailto:me@kyanch.icu)
-
-## OpenPGP 公钥
-
-分发:
 - [https://github.com/kyanch.gpg](https://github.com/kyanch.gpg)
 - [keyserver.ubuntu.com](https://keyserver.ubuntu.com/pks/lookup?search=0xE62CE5E559C72490E3C5B09927C4B2B714A7374E&fingerprint=on&exact=on&op=vindex)
-- WKD已启用: https://openpgpkey.kyanch.icu
+- WKD已启用
   ```bash
   gpg --locate-keys me@kyanch.icu
   ```
 
-
-> Tue Sep 17 12:39:54 PM CST 2024
+## OpenPGP 公钥
 
 ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
